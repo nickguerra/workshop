@@ -1,1 +1,3 @@
-interesting notes about git.
+interesting NOTES about git.
+
+Here are some changes.
